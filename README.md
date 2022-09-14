@@ -9,7 +9,7 @@
 
 
 ### Hi there, I am Benny 👋
-I am a Student major in Computer science and Finance technology in National Cheng Kung University, and I use to be an auditor in PWC.
+I am a student major in Computer science and Finance technology in National Cheng Kung University, and I used to be an auditor in PWC.
 
 * 📗 My linkedin : https://www.linkedin.com/in/jen-hung-hsiao-4259651b5/
 * 📕 My medium page : https://medium.com/@ChickenBenny
