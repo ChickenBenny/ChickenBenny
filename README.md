@@ -1,16 +1,8 @@
-<p align=center>
-    <a href="https://github.com/chonyy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChickenBenny&show_icons=true&theme=vue-dark&hide=issues,prs,contribs&custom_title=ChickenBenny%27s%20GitHub%20Medium%20Stats&include_all_commits=true&count_private=true" />
-    </a>
-    <a href="https://github.com/ChickenBenny">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ChickenBenny&layout=compact&theme=vue-dark&card_width=230" />
-    </a>
-</p>
+# Hi there, I am Benny 👋
+### 🌱 My Contributions So Far!
+![github stats](https://github-readme-stats.vercel.app/api?username=ChickenBenny&show_icons=true)
 
-
-### Hi there, I am Benny 👋
-I am a student major in Computer science and Finance technology in National Cheng Kung University, and I used to be an auditor in PWC.
-
+### 📮 Get In Touch!
 * 📗 My linkedin : https://www.linkedin.com/in/jen-hung-hsiao-4259651b5/
 * 📕 My medium page : https://medium.com/@ChickenBenny
 
