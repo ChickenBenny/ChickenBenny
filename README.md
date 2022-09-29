@@ -1,4 +1,5 @@
 # Hi there, I am Benny 👋
+![](https://komarev.com/ghpvc/?username=ChickenBenny&color=orange)
 ![GitHub followers](https://img.shields.io/github/followers/ChickenBenny?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ChickenBenny?style=social)
 ### 🌱 My Contributions So Far!
