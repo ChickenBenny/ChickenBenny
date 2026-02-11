@@ -1,9 +1,6 @@
 # Hi there, I am Benny 👋
 ![GitHub followers](https://img.shields.io/github/followers/ChickenBenny?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ChickenBenny?style=social)
-### 🌱 My Contributions So Far!
-![github stats](https://github-readme-stats.vercel.app/api?username=ChickenBenny&show_icons=true)
-
 
 ### 📮 Get In Touch!
 * 📗 My linkedin : https://www.linkedin.com/in/jen-hung-hsiao-4259651b5/
